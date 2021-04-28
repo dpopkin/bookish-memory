@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+div.card-deck > .card {
+    width: 29%;
+    position: relative;
+    flex-wrap: wrap;
+    flex: initial;
+    margin-bottom: 20px; 
+}
